@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule (hosts\.txt) hosts.php [PT,QSA,L]
